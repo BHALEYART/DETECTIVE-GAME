@@ -1,9 +1,9 @@
 {
   "name": "SCUMBAG$ #1243",
   "symbol": "SCUMBAGS",
-  "description": "A generative collection of 3,000 Unique Money Bag Characters",
+  "description": "Fine you filthy scum I confess! I hired Axe-em-up Andy to take that Scumbag out. He owed me alot of Drip Chips and I had to make an example out of him. Never cross the Mutant$.",
   "seller_fee_basis_points": 1000,
-  "image": "image.png",
+  "image": "https://raw.githubusercontent.com/BHALEYART/DETECTIVE-GAME/main/1243.png",
   "external_url": "http://scumbags.io/",
   "edition": 1243,
   "attributes": [
@@ -51,7 +51,7 @@
   "properties": {
     "files": [
       {
-        "uri": "image.png",
+        "uri": "https://raw.githubusercontent.com/BHALEYART/DETECTIVE-GAME/main/1243.png",
         "type": "image/png"
       }
     ],
