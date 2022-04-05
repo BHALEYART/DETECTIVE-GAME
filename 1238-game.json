@@ -1,9 +1,9 @@
 {
   "name": "SCUMBAG$ #1238",
   "symbol": "SCUMBAGS",
-  "description": "A generative collection of 3,000 Unique Money Bag Characters",
+  "description": "Yeah I was at that Dope concert, but that crazy screaming turned the place into a madhouse! I didn't see the killer, but there was a shady guy lurking around during the early show at the Bar. Do you know where it's at?",
   "seller_fee_basis_points": 1000,
-  "image": "image.png",
+  "image": "https://raw.githubusercontent.com/BHALEYART/DETECTIVE-GAME/main/1238.png",
   "external_url": "http://scumbags.io/",
   "edition": 1238,
   "attributes": [
@@ -51,7 +51,7 @@
   "properties": {
     "files": [
       {
-        "uri": "image.png",
+        "uri": "https://raw.githubusercontent.com/BHALEYART/DETECTIVE-GAME/main/1238.png",
         "type": "image/png"
       }
     ],
