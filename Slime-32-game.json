@@ -1,9 +1,9 @@
 {
   "name": "Slimeballs #32",
   "symbol": "Slimeballs",
-  "description": "300 Unique VIP Tokens for the SCUMBAG$ Collection. Used in unique Mutation Utility.",
+  "description": "I KILLED HIM! AND I'D DO IT AGAIN! I do anything the boss tells me... Only way you're gonna find him is if you grow Wings and fly High! Mwuahahahaha!",
   "seller_fee_basis_points": 2000,
-  "image": "image.png",
+  "image": "https://raw.githubusercontent.com/BHALEYART/DETECTIVE-GAME/main/32.png",
   "external_url": "https://slimeballs.xyz",
   "edition": 32,
   "attributes": [
@@ -47,7 +47,7 @@
   "properties": {
     "files": [
       {
-        "uri": "image.png",
+        "uri": "https://raw.githubusercontent.com/BHALEYART/DETECTIVE-GAME/main/32.png",
         "type": "image/png"
       }
     ],
