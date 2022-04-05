@@ -1,9 +1,9 @@
 {
   "name": "SCUMBAG$ #2681",
   "symbol": "SCUMBAGS",
-  "description": "A generative collection of 3,000 Unique Money Bag Characters",
+  "description": "The body is all chopped up- leaking blood and green stuff everywhere, but I think I see some Yellow drip? Looks like whoever did this dropped their Golden Rifle. First responders say the scene was still Glowing when they got there...",
   "seller_fee_basis_points": 1000,
-  "image": "image.png",
+  "image": "https://raw.githubusercontent.com/BHALEYART/DETECTIVE-GAME/main/2681.png",
   "external_url": "http://scumbags.io/",
   "edition": 2681,
   "attributes": [
@@ -51,7 +51,7 @@
   "properties": {
     "files": [
       {
-        "uri": "image.png",
+        "uri": "https://raw.githubusercontent.com/BHALEYART/DETECTIVE-GAME/main/2681.png",
         "type": "image/png"
       }
     ],
