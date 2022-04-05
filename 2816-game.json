@@ -1,9 +1,9 @@
 {
   "name": "SCUMBAG$ #2816",
   "symbol": "SCUMBAGS",
-  "description": "A generative collection of 3,000 Unique Money Bag Characters",
+  "description": "Ok you got me, but all I did was try to help the guy! I heard that scream and game running with my AK to help. When I checked his body he was already dead! I did see a girl with Green Eyes and Bad Teeth dip into an alley tho!",
   "seller_fee_basis_points": 1000,
-  "image": "image.png",
+  "image": "https://raw.githubusercontent.com/BHALEYART/DETECTIVE-GAME/main/2816.png",
   "external_url": "http://scumbags.io/",
   "edition": 2816,
   "attributes": [
@@ -51,7 +51,7 @@
   "properties": {
     "files": [
       {
-        "uri": "image.png",
+        "uri": "https://raw.githubusercontent.com/BHALEYART/DETECTIVE-GAME/main/2816.png",
         "type": "image/png"
       }
     ],
