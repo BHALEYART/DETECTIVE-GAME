@@ -1,0 +1,62 @@
+{
+  "name": "Slimeballs #32",
+  "symbol": "Slimeballs",
+  "description": "300 Unique VIP Tokens for the SCUMBAG$ Collection. Used in unique Mutation Utility.",
+  "seller_fee_basis_points": 2000,
+  "image": "image.png",
+  "external_url": "https://slimeballs.xyz",
+  "edition": 32,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White Brick"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "Orange Glow"
+    },
+    {
+      "trait_type": "Shadow",
+      "value": "Shadow"
+    },
+    {
+      "trait_type": "Slime",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Bones"
+    },
+    {
+      "trait_type": "Absorbed",
+      "value": "Drip Chip"
+    },
+    {
+      "trait_type": "Prop",
+      "value": "Axe"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kitty"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bonkers"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4ejehx7PJVYpLcfivsshBTYsnvr1ni9TPHZGcCkRKBQb",
+        "share": 100
+      }
+    ]
+  }
+}
